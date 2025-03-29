@@ -1,0 +1,11 @@
+{
+    "description": "All About Tea",
+    "repo": "https://github.com/Zickles/Tea-Site",
+    "owner": {
+        "username": "HavenTea",
+        "email": "elitrahan@icloud.com"
+    },
+    "record": {
+        "CNAME": "Zickles.github.io"
+    }
+}
